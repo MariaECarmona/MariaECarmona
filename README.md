@@ -3,7 +3,6 @@
 ## About me
 <p>👩‍💻 I'm an IT student at CEFET-MG</p>
 <p>📍 Belo Horizonte, MG</p>
-<p>🔎 I'm currently looking for my first opportunity in the IT industry</p>
 <p>📚 Always studying to improve my skills</p>
 
 ## Tools
